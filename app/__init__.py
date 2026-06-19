@@ -95,7 +95,12 @@ HENRIQUE_PROFILE = {
     "photo": "henrique.jpg",
     "switch_url": "/kriti",
     "switch_name": "Kriti Behl",
-    "about": "Henrique’s profile uses the shared Team 1 portfolio structure.",
+    "about": (
+        "Hello, I'm Henrique Leite. I just finished my third year at the University of Western Ontario, "
+        "where I'm pursuing an Honours Specialization in Computer Science with a heavy emphasis on "
+        "Machine Learning and Data Science. My interests include back-end development, infrastructure, "
+        "data engineering, and data science."
+    ),
     "experiences": [],
     "education": [],
     "hobbies": [],
