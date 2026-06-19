@@ -142,7 +142,25 @@ HENRIQUE_PROFILE = {
             "description": "I love exploring new places and experiencing different cultures. Every trip brings a fresh perspective and great memories.",
         },
     ],
-    "places": [],
+    "places": [
+        {"name": "Brasília (Hometown)", "lat": -15.7939, "lng": -47.8828},
+        {"name": "São Paulo", "lat": -23.5505, "lng": -46.6333},
+        {"name": "Rio de Janeiro", "lat": -22.9068, "lng": -43.1729},
+        {"name": "Recife", "lat": -8.0476, "lng": -34.8770},
+        {"name": "Salvador", "lat": -12.9714, "lng": -38.5124},
+        {"name": "Goiânia", "lat": -16.6869, "lng": -49.2648},
+        {"name": "Mexico City", "lat": 19.4326, "lng": -99.1332},
+        {"name": "Cancún", "lat": 21.1619, "lng": -86.8515},
+        {"name": "Miami", "lat": 25.7617, "lng": -80.1918},
+        {"name": "San Francisco", "lat": 37.7749, "lng": -122.4194},
+        {"name": "Boston", "lat": 42.3601, "lng": -71.0589},
+        {"name": "New York", "lat": 40.7128, "lng": -74.0060},
+        {"name": "Toronto", "lat": 43.6532, "lng": -79.3832},
+        {"name": "Montreal", "lat": 45.5017, "lng": -73.5673},
+        {"name": "Lisbon", "lat": 38.7223, "lng": -9.1393},
+        {"name": "Albufeira", "lat": 37.0882, "lng": -8.2503},
+        {"name": "Havana", "lat": 23.1136, "lng": -82.3666},
+    ],
 }
 
 
