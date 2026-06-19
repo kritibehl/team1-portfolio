@@ -101,7 +101,23 @@ HENRIQUE_PROFILE = {
         "Machine Learning and Data Science. My interests include back-end development, infrastructure, "
         "data engineering, and data science."
     ),
-    "experiences": [],
+    "experiences": [
+        {
+            "role": "Software Developer (Amplify)",
+            "organization": "Royal Bank of Canada",
+            "description": "Building a patent-pending solution for US Cash management.",
+        },
+        {
+            "role": "Software Engineer Intern",
+            "organization": "Aurelis",
+            "description": "Worked on developing property management software.",
+        },
+        {
+            "role": "Data Analyst",
+            "organization": "Scotiabank",
+            "description": "Automated financial reporting and built data dashboards using VBA and Python. Used Power BI to streamline wealth analytics, client insights, and highlight portfolio exposure risk.",
+        },
+    ],
     "education": [],
     "hobbies": [],
     "places": [],
