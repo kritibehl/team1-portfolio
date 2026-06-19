@@ -32,9 +32,14 @@
 
     <div class="profile">
         <div id="profile-picture" class="profile-picture">
-            <img src="./static/img/logo.jpg">
+            <img src="./static/img/{{ photo }}">
         </div>
         <h1>{{ title }}</h1>
+
+        <a href="{{ switch_url }}" class="switch-btn" id="switch-portfolio">
+            <span class="switch-icon">⇄</span>
+            Switch to {{ switch_name }}
+        </a>
     </div>
 </body>
 </html>
