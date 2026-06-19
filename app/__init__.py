@@ -94,7 +94,7 @@ HENRIQUE_PROFILE = {
     "title": "MLH Production Engineering Fellow",
     "photo": "henrique.jpg",
     "switch_url": "/kriti",
-    "switch_name": "Kriti Behl",
+    "switch_name": "Kriti",
     "about": "Henrique’s profile uses the shared Team 1 portfolio structure.",
     "experiences": [],
     "education": [],
