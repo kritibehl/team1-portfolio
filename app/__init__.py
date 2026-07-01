@@ -168,10 +168,10 @@ HENRIQUE_PROFILE = {
 def index():
     return render_template(
         "index.html",
-        title="Team 1 Portfolio",
+        title="Kriti Behl",
         url=os.getenv("URL"),
         nav_items=NAV_ITEMS,
-        profile=HENRIQUE_PROFILE,
+        profile=KRITI_PROFILE,
     )
 
 
